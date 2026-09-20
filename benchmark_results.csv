@@ -1,0 +1,10 @@
+mode,char_count,ttfb_seconds,text
+http,17,1.0892475999426097,"Sure, one moment."
+websocket_cold,17,1.6182313000317663,"Sure, one moment."
+http,54,0.9231595000019297,Your appointment is confirmed for Tuesday at three PM.
+websocket_cold,54,1.4196139000123367,Your appointment is confirmed for Tuesday at three PM.
+http,111,1.0345948999747634,"I found four matching results, here is the first one, and I can read the rest if you would like me to continue."
+websocket_cold,111,1.5054969999473542,"I found four matching results, here is the first one, and I can read the rest if you would like me to continue."
+websocket_warm,17,0.38102800003252923,"Sure, one moment."
+websocket_warm,54,0.33800490002613515,Your appointment is confirmed for Tuesday at three PM.
+websocket_warm,111,0.3324696999043226,"I found four matching results, here is the first one, and I can read the rest if you would like me to continue."
