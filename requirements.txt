@@ -1,5 +1,0 @@
-livekit-agents[groq,rime,silero,turn-detector]~=1.6
-livekit-plugins-noise-cancellation~=0.2
-python-dotenv>=1.1.1
-requests>=2.31
-websockets>=12.0
